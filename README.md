@@ -130,4 +130,13 @@ You can download the dataset from Google Drive:
 
 [https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1a4qL2woVICuZVeUcCgtyESIHKQLm2cNE?usp=sharing)
 
+---
 
+## 📊 Power BI Dashboard
+
+The Power BI dashboard file is large and cannot be uploaded directly to GitHub.
+You can download the `.pbix` file from Google Drive:
+
+[https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1dZ-OD8G02suToMgxxJ_x0-VhUiJitnoW?usp=sharing)
+
+Open the file using Microsoft Power BI Desktop to explore the interactive dashboard.
