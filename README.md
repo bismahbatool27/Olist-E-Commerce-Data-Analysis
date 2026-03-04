@@ -85,6 +85,22 @@ A simplified segmentation was also created:
 
 ---
 
+## 📊 Key Visualizations
+
+### Monthly Sales Trend
+![Sales Trend](images/Monthly_Sales_Trend.png)  
+Shows the sales growth trend from 2016 to 2018.
+
+### Customer Segmentation
+![RFM Segments](images/Customer_Segments_Overview.png)  
+Highlights customer distribution based on RFM scores.
+
+### Delivery Performance
+![Delivery Analysis](images/Delivery_Performance_Overview.png)  
+Shows average delivery time (days) and late delivery percentage.
+
+---
+
 ## 📊 Dashboard
 
 An interactive Power BI dashboard is included in this repository:
