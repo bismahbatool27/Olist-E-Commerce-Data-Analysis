@@ -88,15 +88,15 @@ A simplified segmentation was also created:
 ## 📊 Key Visualizations
 
 ### Monthly Sales Trend
-![Sales Trend](images/Monthly_Sales_Trend.png)  
+![Sales Trend](images/images/Monthly_Sales_Trend.png)  
 Shows the sales growth trend from 2016 to 2018.
 
 ### Customer Segmentation
-![RFM Segments](images/Customer_Segments_Overview.png)  
+![RFM Segments](images/images/Customer_Segments_Overview.png)  
 Highlights customer distribution based on RFM scores.
 
 ### Delivery Performance
-![Delivery Analysis](images/Delivery_Performance_Overview.png)  
+![Delivery Analysis](images/images/Delivery_Performance_Overview.png)  
 Shows average delivery time (days) and late delivery percentage.
 
 ---
