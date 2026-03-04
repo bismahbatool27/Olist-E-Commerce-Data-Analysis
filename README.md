@@ -106,3 +106,12 @@ Source: Kaggle
 
 This project demonstrates a complete end-to-end analytics workflow — from raw data processing to business storytelling.  
 The findings highlight opportunities for improving customer retention, operational efficiency, and revenue growth using data-driven strategies.
+
+## Dataset
+
+The dataset used in this project is large and cannot be uploaded directly to GitHub.
+You can download the dataset from Google Drive:
+
+[https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1a4qL2woVICuZVeUcCgtyESIHKQLm2cNE?usp=sharing)
+
+
